@@ -18,7 +18,7 @@ body{
 
 .pick{
     background-size: cover;
-    background-image: url(/IMG/12.jpg);
+    background-image: url(../IMG/12.jpg);
     margin: 0pх auto;
     width: 1920px;
     height: 877px;
@@ -488,28 +488,28 @@ body{
 
 .bg1{
     background-size: cover;
-    background-image: url(/IMG/Info/1.jpg);
+    background-image: url(../IMG/Info/1.jpg);
     width: 263px;
     height: 263px;
 }
 
 .bg2{
     background-size: cover;
-    background-image: url(/IMG/Info/2.jpg);
+    background-image: url(../IMG/Info/2.jpg);
     width: 263px;
     height: 263px;
 }
 
 .bg3{
     background-size: cover;
-    background-image: url(/IMG/Info/3.jpg);
+    background-image: url(../IMG/Info/3.jpg);
     width: 263px;
     height: 263px;
 }
 
 .bg4{
     background-size: cover;
-    background-image: url(/IMG/Info/4.jpg);
+    background-image: url(../IMG/Info/4.jpg);
     width: 263px;
     height: 263px;
 }
@@ -609,7 +609,7 @@ body{
 
     .pick{
         background-size: cover;
-        background-image: url(/IMG/12.jpg);
+        background-image: url(../IMG/12.jpg);
         margin: 0pх auto;
         width: 1500px;
         height: 877px;
